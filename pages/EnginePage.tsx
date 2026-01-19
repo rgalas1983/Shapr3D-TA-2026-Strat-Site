@@ -130,9 +130,9 @@ const engineContent: EngineContent[] = [
     title: "Embedded Model",
     subtitle: "Strategic Talent Partnering",
     inputs: [
-      { text: "We need to maximise productivity with existing headcount and avoid low-value hires", data: "We have seen that adding people doesn't always add value (though we need to quantify this more effectively (NIPs))." },
+      { text: "We need to maximise productivity with existing headcount and avoid low-value hires", data: "We have seen that adding people doesn't always add value, though we need to quantify this more effectively-NIPs." },
       { text: "Role volatility and recalibration", data: "Several roles in 2025 were reshaped, paused, or deprioritised as teams clarified what would actually improve output. As recruiters became more aligned to functions and adopted a strategic approach, they began to advise more effectively on ideal role personas and long-term capability planning." }
-    ]
+    ],
     framework: {
       whatItIs: "Embed recruiters more deeply with people managers, who know market realities and team performance distributions intimately.",
       sections: [
