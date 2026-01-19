@@ -127,8 +127,8 @@ const engineContent: EngineContent[] = [
     outputs: ["Measurable Quality of Hire", "Evidence-led prioritisation", "TA as business advisor", "Data-backed hiring"]
   },
   {
-    title: "Embedded Model",
-    subtitle: "Strategic Talent Partnering",
+    title: "Strategic Talent Partnering",
+    subtitle: "Embedded Model",
     inputs: [
       { text: "We need to maximise productivity with existing headcount and avoid low-value hires", data: "We have seen that adding people doesn't always add value, though we need to quantify this more effectively-NIPs." },
       { text: "Role volatility and recalibration", data: "Several roles in 2025 were reshaped, paused, or deprioritised as teams clarified what would actually improve output. As recruiters became more aligned to functions and adopted a strategic approach, they began to advise more effectively on ideal role personas and long-term capability planning." }
