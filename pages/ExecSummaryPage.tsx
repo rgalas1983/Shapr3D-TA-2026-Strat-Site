@@ -20,7 +20,7 @@ const ExecSummaryPage: React.FC = () => {
             </li>
             <li className="flex gap-4">
               <span className="text-blue-500 font-bold">03</span>
-              <p className="text-zinc-300">Maintained competitive speed versus EU SaaS benchmarks despite market friction.</p>
+              <p className="text-zinc-300">Maintained competitive speed vs Global SaaS benchmarks despite friction points.</p>
             </li>
           </ul>
         </div>
@@ -35,7 +35,7 @@ const ExecSummaryPage: React.FC = () => {
             </div>
             <div className="p-4 bg-black/40 rounded-xl border border-zinc-800/50">
               <p className="text-[10px] text-zinc-500 uppercase font-bold mb-1">GTM roles</p>
-              <p className="text-white font-medium">Scope drift</p>
+              <p className="text-white font-medium">Scope drift & Inbound noise</p>
             </div>
           </div>
         </div>
