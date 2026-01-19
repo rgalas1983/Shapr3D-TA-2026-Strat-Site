@@ -16,13 +16,13 @@ const BaselinePage: React.FC = () => {
   ];
 
   const benchmarksEng = [
-    { name: '2025 S3D', value: 94 },
-    { name: 'EU SaaS Avg', value: 85, isBenchmark: true }
+    { name: '2025 S3D = 94', value: 94 },
+    { name: 'EU SaaS Avg = 85', value: 85, isBenchmark: true }
   ];
 
   const benchmarksSales = [
-    { name: '2025 S3D', value: 65 },
-    { name: 'Global AE Avg', value: 75, isBenchmark: true }
+    { name: '2025 S3D = 65', value: 65 },
+    { name: 'Global AE Avg = 75', value: 75, isBenchmark: true }
   ];
 
   return (
