@@ -57,7 +57,7 @@ const engineContent: EngineContent[] = [
     framework: {
       whatItIs: "Automation only where scale adds signal, never where judgment is required.",
       sections: [
-        { title: "AI Deployment", items: ["AI Notetaker allows hands-free interviewing, lower admin and higher candidate engagement", Shapr3d specific Job ad generation tool with anti-fit language", "Screening triage low-quality inbound via Ashby AI"] },
+        { title: "AI Deployment", items: ["AI Notetaker allows hands-free interviewing, lower admin and higher candidate engagement", "Shapr3d specific Job ad generation tool with anti-fit language", "Screening triage low-quality inbound via Ashby AI"] },
         { title: "Strategic Tooling", items: ["Ashby automation for scale", "Shapr3d specific Stock option simulator for offer-stage education", "Clear human checkpoints before any progression"] }
       ]
     },
