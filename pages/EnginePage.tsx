@@ -127,19 +127,19 @@ const engineContent: EngineContent[] = [
     outputs: ["Measurable Quality of Hire", "Evidence-led prioritisation", "TA as business advisor", "Data-backed hiring"]
   },
   {
-    title: "Function Partnering Model",
-    subtitle: "Embedded Talent Partnering",
+    title: "Embedded Model",
+    subtitle: "Strategic Talent Partnering",
     inputs: [
-      { text: "TA shift from execution to strategy", data: "Recruiters aligned to functions for long-term capability planning." },
-      { text: "Advise against low-value hiring", data: "Challenging requests when value or market reality doesn't align." }
-    ],
+      { text: "We need to maximise productivity with existing headcount and avoid low-value hires", data: "We have seen that adding people doesn't always add value (though we need to quantify this more effectively (NIPs))." },
+      { text: "Role volatility and recalibration", data: "Several roles in 2025 were reshaped, paused, or deprioritised as teams clarified what would actually improve output. As recruiters became more aligned to functions and adopted a strategic approach, they began to advise more effectively on ideal role personas and long-term capability planning." }
+    ]
     framework: {
-      whatItIs: "Embedded partners who know market realities and team performance distributions intimately.",
+      whatItIs: "Embed recruiters more deeply with people managers, who know market realities and team performance distributions intimately.",
       sections: [
-        { title: "Partnership Scope", items: ["Hiring vs redeployment advisory conversations", "Coaching leaders on sourcing and effective decision-making", "Upstream participation in headcount planning"] }
+        { title: "Partnership Scope", items: ["External hiring vs internal pipeline advisory conversations", "Coaching leaders on sourcing and effective decision-making", "Strategic advisory vs CV shuffling= higher added value"] }
       ]
     },
-    outputs: ["Fewer low-leverage hires", "Better upfront decisions", "Upstream TA operation", "Strategic function alignment"]
+    outputs: ["Fewer low-leverage hires", "Better upfront decisions", "Increased internal mobility-higher retention", "Strategic function alignment"]
   },
   {
     title: "Headhunting Capability",
