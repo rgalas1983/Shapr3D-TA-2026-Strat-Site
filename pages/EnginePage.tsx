@@ -46,18 +46,18 @@ const engineContent: EngineContent[] = [
     outputs: ["Reduced late-stage resets", "Lower wasted cycle time", "High offer acceptance", "Quality over raw speed"]
   },
   {
-    title: "Automation for Nurture & Outreach",
-    subtitle: "Signal-Weighted Automation",
+    title: "Automation for Inbound & Outbound",
+    subtitle: "AI with Guardrails",
     inputs: [
       { text: "Channel effectiveness imbalance (inbound noise vs quality)", data: "7291 applications to 43 hires. US AE role: 1562 applications, 0 hires from inbound." },
-      { text: "AI-generated inbound volume masking quality", data: "Inbound volume increased without corresponding senior-quality yield." },
-      { text: "Admin drag vs strategic work", data: "Calculated time saved using Ashby vs Greenhouse automation." }
+      { text: "Candidate clarity", data: "Inconsistent job ads & packages- stock options mostly- weakened attraction, reduced self-filtering and created unnecessary decision friction." },
+      { text: "Admin drag vs strategic work", data: "Approx 90+hours saved on recruitment admin using Ashby vs Greenhouse automation." }
     ],
-    connection: "Inbound volume has reached a scale where human-only screening is inefficient. Automation is deployed to filter noise, not to replace judgment.",
+    connection: "Inbound volume has reached a scale where human-only screening can become inefficient. Automation is deployed to filter noise, not to replace judgment.",
     framework: {
       whatItIs: "Automation only where scale adds signal, never where judgment is required.",
       sections: [
-        { title: "AI Deployment", items: ["Shapr3d specific Job ad generation tool with anti-fit language", "Nurture sequences segmented by seniority and geography in Ashby", "Screening triage for obvious low-intent inbound via Ashby AI"] },
+        { title: "AI Deployment", items: ["AI Notetaker allows hands-free interviewing, lower admin and higher candidate engagement", Shapr3d specific Job ad generation tool with anti-fit language", "Nurture sequences segmented by seniority and geography in Ashby", "Screening triage for obvious low-intent inbound via Ashby AI"] },
         { title: "Strategic Tooling", items: ["Ashby automation for scale", "Shapr3d specific Stock option simulator for offer-stage education", "Clear human checkpoints before any progression"] }
       ]
     },
