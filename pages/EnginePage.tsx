@@ -112,14 +112,14 @@ const engineContent: EngineContent[] = [
     outputs: ["Stronger referral flow", "Higher inbound intent quality", "Reduced outbound dependence", "Organic market presence"]
   },
   {
-    title: "Net Individual Performers (NIPs)",
+    title: "Net Individual Performance score (NIPs)",
     subtitle: "Talent Density Measurement System",
     inputs: [
       { text: "Need to quantify bar-raising talent", data: "Is new talent raising the team's median performance?" },
       { text: "Source-quality hypothesis testing", data: "Do specific sources consistently produce better long-term performers?" }
     ],
     framework: {
-      whatItIs: "Lightweight scoring model using existing performance reviews and cultural rubrics.",
+      whatItIs: "Lightweight scoring model using existing performance reviews.",
       sections: [
         { title: "System Capabilities", items: ["Utilising cultural rubric alongside functional role frameworks", "Tracking delta in median performance post-hire", "Evidence-led channel prioritisation based on performance outcomes"] }
       ]
@@ -142,16 +142,16 @@ const engineContent: EngineContent[] = [
     outputs: ["Fewer low-leverage hires", "Better upfront decisions", "Upstream TA operation", "Strategic function alignment"]
   },
   {
-    title: "Exec Search Capability",
-    subtitle: "Internal Headhunting Track",
+    title: "Headhunting Capability",
+    subtitle: "In House expertise for Exec and Founding roles",
     inputs: [
-      { text: "Senior non-inbound dependency", data: "Senior Eng and Sales hires overwhelmingly non-inbound in 2025." },
-      { text: "Search cost and dependency reduction", data: "Internalizing high-value searches for IC4+, M3+, and VP roles." }
+      { text: "Senior non-inbound dependency=strong outbound muscle", data: "Senior Eng and Sales hires overwhelmingly non-inbound in 2025." },
+      { text: "Search cost and role scope understanding", data: "External search partners failed on CRO search (high cost, low value) and founding roles required deep understanding of cultural bar, which would create drag and misalignment if outsourced." }
     ],
     framework: {
-      whatItIs: "Selected recruiters trained as headhunters for senior, confidential, and founder-critical searches.",
+      whatItIs: "Upskilling team as headhunters for senior, confidential, and founder-critical searches.",
       sections: [
-        { title: "Search Methodology", items: ["Proactive market mapping and competitive landscape analysis", "Direct headhunting outreach and relationship management", "Founder-critical and confidential search execution"] }
+        { title: "Search Methodology", items: ["Proactive market mapping and competitive landscape analysis", "Outreach and relationship management", "Founder-critical and confidential search execution"] }
       ]
     },
     outputs: ["Reduced agency dependency", "Higher senior hire quality", "Internal market intelligence", "Precision hiring"]
