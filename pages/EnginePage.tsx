@@ -38,9 +38,9 @@ const engineContent: EngineContent[] = [
     framework: {
       whatItIs: "Interview processes explicitly differ by role archetype and seniority, not just by function.",
       details: [
-        { label: "Engineering IC3+", desc: "Deeper signal per stage. Heavy upfront calibration (portfolio/code/context review).", data: "Senior Engineering hires were 100% referral-led in 2025, reinforcing need for high-signal evaluation" },
-        { label: "Sales AE IC3", desc: "Early disqualifying filter (Stephen + task). Clearer blueprint from signals given by founding AE team.", data: "Time in stage for AEs stretched due to travel and in person requirement." },
-        { label: "Marketing IC3+", desc: "Role scope now clearer – close partnership with Maya to continue to refine success factors.", data: "Scope instability directly correlated with 90+ day TTF for senior roles in 2025" }
+        { label: "Hard to Fill Engineering Roles", desc: "Process optimised for engagement + signal in a constrained market, while holding a high tech bar.", data: "Improved recruiter calibration (65%+ Screen → Culture) and reduced task drop-off (20.6% → 11.8%) show the process now maximises engagement and cultural filtering. Sustained high technical rejection (~70–75%) confirms the remaining constraint is capability in a tight local market, not process failure; explaining why these roles remain hard to fill." },
+        { label: "Account Executives", desc: "Maximise engagement, reduce drag and focus sourcing by adding an early disqualifying filter (Stephen + task) plus clearer blueprint based on signals from the founding AE team.", data: "Time in stage for AEs stretched due to travel and in person requirement. Identifying ideal persona stretched time to fill." },
+        { label: "Marketing & Product", desc: "Role scope now clearer: close partnership with Maya & Tibi to continue to refine success factors.", data: "Scope instability directly correlated with 90+ day TTF for senior roles in 2025" }
       ]
     },
     outputs: ["Reduced late-stage resets", "Lower wasted cycle time", "High offer acceptance", "Quality over raw speed"]
@@ -121,7 +121,7 @@ const engineContent: EngineContent[] = [
     framework: {
       whatItIs: "Lightweight scoring model using existing performance reviews.",
       sections: [
-        { title: "System Capabilities", items: ["Utilising cultural rubric alongside functional role frameworks", "Tracking delta in median performance post-hire", "Evidence-led channel prioritisation based on performance outcomes"] }
+        { title: "System Capabilities", items: ["Utilising cultural rubric alongside functional role frameworks", "Tracking delta in median performance- high performers minus low performers, tracked over time to see if hiring raises the bar ", "Evidence-led channel prioritisation based on outcomes"] }
       ]
     },
     outputs: ["Measurable Quality of Hire", "Evidence-led prioritisation", "TA as business advisor", "Data-backed hiring"]
@@ -157,19 +157,19 @@ const engineContent: EngineContent[] = [
     outputs: ["Reduced agency dependency", "Higher senior hire quality", "Internal market intelligence", "Precision hiring"]
   },
   {
-    title: "Tooling & AI Deployment",
-    subtitle: "AI with Guardrails",
+    title: "Responsive Recruitment Engine",
+    subtitle: "Business aligned hiring",
     inputs: [
-      { text: "Proven ROI from automation", data: "Estimated €4.7k time-value saving in 2025 via Ashby + Metaview." },
-      { text: "Reinvesting time into judgment", data: "Freeing recruiter time for candidate-facing, judgment-heavy work." }
+      { text: "Growth Acceleration Signal", data: "Enterprise deal momentum creates delivery and execution demand beyond what current teams can absorb." },
+      { text: "Productivity & Sustainability Signal", data: "Enterprise growth is there but slow or uneven and the limiting factor is execution maturity, or leverage of existing teams rather than headcount." }
     ],
     framework: {
-      whatItIs: "Ashby as the system of record and intelligence layer. Governed AI deployment.",
+      whatItIs: "A single recruitment engine designed to shift gears between external acceleration and internal capability building in response to business signals.",
       sections: [
-        { title: "2026 Impact", items: ["AI-led notes and reporting patterns to reduce manual friction", "Hands-free interviewing for better candidate engagement", "Pattern recognition to identify funnel bottlenecks early"] }
+        { title: "2026 Impact", items: ["One recruitment engine designed to operate in two gears based on enterprise growth signals", "Fast gear: rapid external hiring to inject senior skills and expertise when growth accelerates", "Steady gear: maximise internal, early-career, and progression tracks while selectively hiring to recalibrate teams"] }
       ]
     },
-    outputs: ["Maximized recruiter time", "Sustained team efficiency", "Better engagement quality", "Governed AI growth"]
+    outputs: ["Responsive to business growth", "Built to adapt, not rebuild", "Growth without waste", "Focused speed"]
   }
 ];
 
