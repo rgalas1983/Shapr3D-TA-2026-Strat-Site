@@ -30,7 +30,7 @@ const engineContent: EngineContent[] = [
     title: "Interview Process (tied to roles)",
     subtitle: "Role-Calibrated Interview Architecture",
     inputs: [
-      { text: "Stage / overall conversion", data: "2025 time to hire: 40 days (All roles, target hit), 48 days (Engineering, target <44 missed)" },
+      { text: "Speed and Conversion", data: "2025 time to hire: 31 days (All non Eng roles, target hit), 48 days (Engineering, target <44 missed); Offer Acceptance 91.5%" },
       { text: "Role definition clarity", data: "Marketing senior roles- time to fill ranged 58–90+ days in 2025 when scope evolved mid-search" },
       { text: "Senior velocity drag driven by selectivity and market constraints", data: "Engineering IC3+ time to fill 94 days vs EU SaaS industry average of 85 days (Budapest market); Sales IC3+ 65 days vs global SaaS industry benchmark of 60-90 days (quality only through sourcing)" }
     ],
@@ -49,7 +49,7 @@ const engineContent: EngineContent[] = [
     title: "Automation for Inbound & Outbound",
     subtitle: "AI with Guardrails",
     inputs: [
-      { text: "Channel effectiveness imbalance- inbound noise vs quality", data: "7291 applications to 43 hires. US AE role: 1562 applications, 0 hires from inbound." },
+      { text: "Channel effectiveness imbalance: inbound noise vs quality", data: "7291 applications to 43 hires. US AE role: 1562 applications, 0 hires from inbound." },
       { text: "Candidate clarity", data: "Inconsistent job ads & package info weakened attraction, reduced self-filtering and created unnecessary decision friction." },
       { text: "Admin drag vs strategic work", data: "Approx 90 plus hours saved on recruitment admin using Ashby (automation) vs Greenhouse." }
     ],
@@ -57,7 +57,7 @@ const engineContent: EngineContent[] = [
     framework: {
       whatItIs: "Automation only where scale adds signal, never where judgment is required.",
       sections: [
-        { title: "AI Deployment", items: ["AI Notetaker allows hands-free interviewing, lower admin and higher candidate engagement", "Shapr3d specific Job ad generation tool with anti-fit language", "Screening triage low-quality inbound via Ashby AI"] },
+        { title: "AI Deployment", items: ["AI Notetaker allows hands-free interviewing, lower admin and higher candidate engagement", "Shapr3d specific Job ad generation tool with anti-fit language", "Application screening support for high volume inbound via Ashby AI"] },
         { title: "Strategic Tooling", items: ["Ashby automation for scale", "Shapr3d specific Stock option simulator for offer-stage education", "Clear human checkpoints before any progression"] }
       ]
     },
@@ -67,7 +67,7 @@ const engineContent: EngineContent[] = [
     title: "Role Definitions & Frameworks",
     subtitle: "Role Blueprint System",
     inputs: [
-      { text: "Role definition drift (GTM)", data: "Marketing IC3+ time to fill exceeded 90 days when scope shifted mid-search" },
+      { text: "Role definition drift (GTM)", data: "Marketing IC3+ time to fill exceeded 90 days due to scope shift mid-search" },
       { text: "AE inbound volume/quality imbalance", data: "Senior Sales hires: ~86% sourced. AEs 100% sourced. Inbound was discovery journey." },
       { text: "Need to prevent hiring that doesn’t raise bar", data: "Ensuring every hire increases the median talent density of the team." }
     ],
@@ -106,7 +106,7 @@ const engineContent: EngineContent[] = [
     framework: {
       whatItIs: "An internal advocacy system, not a content program. Focused on storytelling and value perception.",
       sections: [
-        { title: "Operating Pillars", items: ["Authentic, role-specific content designed to filter out low-intent candidates", "Community events engineered for cross-geo cohesion (Budapest ↔ Denver)", "Expanded rewards program embedded into high-referral onboarding moments"] }
+        { title: "Operating Pillars", items: ["Authentic, specific content designed to filter out low-intent candidates", "Community events engineered for cross-geo cohesion (Budapest ↔ Denver)", "Expanded rewards program embedded into high-referral onboarding moments"] }
       ]
     },
     outputs: ["Stronger referral flow", "Higher inbound intent quality", "Reduced outbound dependence", "Organic market presence"]
@@ -145,8 +145,8 @@ const engineContent: EngineContent[] = [
     title: "Headhunting Capability",
     subtitle: "In House expertise for Exec and Founding roles",
     inputs: [
-      { text: "Senior non-inbound dependency=strong outbound muscle", data: "Senior Eng and Sales hires overwhelmingly non-inbound in 2025." },
-      { text: "Search cost and role scope understanding", data: "External search partners failed on CRO search (high cost, low value) and founding roles required deep understanding of cultural bar, which would create drag and misalignment if outsourced." }
+      { text: "Senior non-inbound dependency=strong outbound muscle", data: "Senior hires 53% outbound in 2025." },
+      { text: "Search cost and role scope understanding", data: "External search partners failed on CRO search (high cost) and founding roles required deep understanding of cultural bar, which create drag and low precision if outsourced." }
     ],
     framework: {
       whatItIs: "Upskilling team as headhunters for senior, confidential, and founder-critical searches.",
