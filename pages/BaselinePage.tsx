@@ -98,8 +98,8 @@ const BaselinePage: React.FC = () => {
               <BenchmarkChart data={benchmarksSales} title="Senior Sales IC3+ Time to Fill" />
               <div className="bg-zinc-900/80 p-4 rounded-xl border border-zinc-800 space-y-2">
                 <div className="flex justify-between items-center">
-                  <span className="text-[10px] text-zinc-500 uppercase font-bold tracking-wider">All Roles Avg</span>
-                  <span className="text-xs font-bold text-green-400">40d (Target &lt;40)</span>
+                  <span className="text-[10px] text-zinc-500 uppercase font-bold tracking-wider">Other Roles Avg</span>
+                  <span className="text-xs font-bold text-green-400">31d (Target &lt;40)</span>
                 </div>
                 <p className="text-[10px] text-zinc-600 italic">Maintaining competitive speed vs SaaS benchmarks.</p>
               </div>
