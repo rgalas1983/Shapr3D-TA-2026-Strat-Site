@@ -38,7 +38,7 @@ const engineContent: EngineContent[] = [
     framework: {
       whatItIs: "Interview processes explicitly differ by role archetype and seniority, not just by function.",
       details: [
-        { label: "Hard to Fill Engineering Roles", desc: "Process optimised for engagement + signal in a constrained market, while holding a high tech bar.", data: "Improved recruiter calibration (65%+ Screen → Culture) and reduced task drop-off (20.6% → 11.8%) show the process now maximises engagement and cultural filtering. Sustained high technical rejection (~70–75%) confirms the remaining constraint is capability in a tight local market, not process failure; explaining why these roles remain hard to fill." },
+        { label: "Hard to Fill Snr Engineering Roles", desc: "Process optimised for engagement + signal in a constrained market, while holding a high tech bar.", data: "Improved recruiter calibration (65%+ Screen → Culture) and reduced task drop-off (20.6% → 11.8%) show the process now maximises engagement and cultural filtering. Sustained high technical rejection (~70–75%) confirms the remaining constraint is capability in a tight local market, not process failure; explaining why these roles remain hard to fill." },
         { label: "Account Executives", desc: "Maximise engagement, reduce drag and focus sourcing by adding an early disqualifying filter (Stephen + task) plus clearer blueprint based on signals from the founding AE team.", data: "Time in stage for AEs stretched due to travel and in person requirement. Identifying ideal persona stretched time to fill." },
         { label: "Marketing & Product", desc: "Role scope now clearer: close partnership with Maya & Tibi to continue to refine success factors.", data: "Scope instability directly correlated with 90+ day TTF for senior roles in 2025" }
       ]
@@ -51,7 +51,7 @@ const engineContent: EngineContent[] = [
     inputs: [
       { text: "Channel effectiveness imbalance- inbound noise vs quality", data: "7291 applications to 43 hires. US AE role: 1562 applications, 0 hires from inbound." },
       { text: "Candidate clarity", data: "Inconsistent job ads & package info weakened attraction, reduced self-filtering and created unnecessary decision friction." },
-      { text: "Admin drag vs strategic work", data: "Approx 90 plus hours saved on recruitment admin using Ashby vs Greenhouse automation." }
+      { text: "Admin drag vs strategic work", data: "Approx 90 plus hours saved on recruitment admin using Ashby (automation) vs Greenhouse." }
     ],
     connection: "Inbound volume has reached a scale where human-only screening can become inefficient. Automation is deployed to filter noise, not to replace judgment.",
     framework: {
@@ -100,8 +100,8 @@ const engineContent: EngineContent[] = [
     title: "Employer Brand Optimisation",
     subtitle: "Shapr Champions Operating Model",
     inputs: [
-      { text: "Referral over-performance in engineering", data: "Engineering referrals grew from 6% (2024) → 53.3% (2025)" },
-      { text: "EB necessity for Budapest density", data: "Leveraged to support referrals and intent quality, not raw volume." }
+      { text: "EB necessity for Budapest market", data: "Engineering referral hires grew from 6% (2024) → 53.3% (2025) with 100% for IC3+" },
+      { text: "New market, means no brand awareness", data: "Remote and US hires were 78% outbound source" }
     ],
     framework: {
       whatItIs: "An internal advocacy system, not a content program. Focused on storytelling and value perception.",
