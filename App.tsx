@@ -25,8 +25,8 @@ const App: React.FC = () => {
     { id: 'engine-6', label: 'Quality (NIPs)', section: 'TA ENGINE' },
     { id: 'engine-7', label: 'Partnering Model', section: 'TA ENGINE' },
     { id: 'engine-8', label: 'Internal Exec Search', section: 'TA ENGINE' },
-    { id: 'engine-9', label: 'Tooling Strategy', section: 'TA ENGINE' },
-    { id: 'final-alignment', label: 'Final Output Alignment', section: 'ALIGNMENT' },
+    { id: 'engine-9', label: 'Responsive Recruitment', section: 'TA ENGINE' },
+    { id: 'final-alignment', label: 'Final Output/2026 Targets', section: 'ALIGNMENT' },
   ];
 
   const renderPage = () => {
