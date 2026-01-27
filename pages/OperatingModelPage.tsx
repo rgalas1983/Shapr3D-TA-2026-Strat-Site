@@ -2,7 +2,7 @@ import React from 'react';
 
 const OperatingModelPage: React.FC<{onSelectEngine: (id: string) => void}> = ({ onSelectEngine }) => {
   const inputs = [
-    { label: "Conversion Ratios", sub: "Stage signals" },
+    { label: "Speed/Conversion", sub: "Stage signals" },
     { label: "Role Clarity", sub: "Scope stability" },
     { label: "Market Reality", sub: "Supply/Salary" },
     { label: "Channel Efficacy", sub: "Inbound vs Sourced" },
@@ -18,7 +18,7 @@ const OperatingModelPage: React.FC<{onSelectEngine: (id: string) => void}> = ({ 
     { id: 'engine-6', label: "NIPS (Quality)" },
     { id: 'engine-7', label: "Embedded Partnering" },
     { id: 'engine-8', label: "Internal Exec Search" },
-    { id: 'engine-9', label: "AI Governance" }
+    { id: 'engine-9', label: "Responsive Recruitment Engine" }
   ];
 
   return (
