@@ -9,10 +9,10 @@ const FinalAlignmentPage: React.FC = () => {
       icon: "⚡",
       color: "blue",
       items: [
-        "Faster where supply exists (Denver GTM)",
-        "Intentional slowness for senior Eng IC4+",
-        "Minimal admin friction via Ashby automation",
-        "Higher signal density early in the funnel"
+        "Beat 2025 Avg Time to Hire for Non Eng roles of 31 days ",
+        "Reduce Avg Time to Hire for senior Eng roles to under 44 days",
+        "Fill 4 Hard to Fill roles: EM/Snr Prod Ops/ Snr Prod Des/HoF",
+        "Minimise admin friction via Ashby automation"
       ]
     },
     {
@@ -21,10 +21,10 @@ const FinalAlignmentPage: React.FC = () => {
       icon: "🎯",
       color: "green",
       items: [
-        "91.5% acceptance rate preserved",
-        "Accurate hiring plan delivery metrics",
-        "Reduced 'Pipeline Junk' through role blueprints",
-        "Executive search internalization for precision"
+        "Above 90% offer acceptance rate preserved",
+        "Boost Eng referrals from 53-60% vs industry average of 16-28%",
+        "Build a 'warm' Bench of Top AE candidates",
+        "Less drag and more focused sourcing through role blueprints"
       ]
     },
     {
@@ -33,9 +33,9 @@ const FinalAlignmentPage: React.FC = () => {
       icon: "💎",
       color: "zinc",
       items: [
-        "Explicit NIPS scoring for new hire cohorts",
-        "Direct feedback loops into role design",
-        "Advisor-level TA credibility across functions",
+        "Build NIPS system and establish baseline",
+        "Hiring Manager feedback score of 85%+ to keep in line with 2025 score of 87%",
+        "Do not let our Candidate positive NPS rating in 2025 of 89.1% drop below 85%",
         "Evidence-led channel and source prioritization"
       ]
     }
