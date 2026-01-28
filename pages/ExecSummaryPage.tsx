@@ -12,15 +12,15 @@ const ExecSummaryPage: React.FC = () => {
           <ul className="space-y-4">
             <li className="flex gap-4">
               <span className="text-blue-500 font-bold">01</span>
-              <p className="text-zinc-300">Successfully onboarded<span className="text-white font-bold">43 total hires: +34% YoY</span>with over 32% IC3 level or above, including a new CRO. We successfully built the Denver GTM office from scratch and integrated global remote sales roles.</p>
+              <p className="text-zinc-300">Successfully onboarded <span className="text-white font-bold"> 43 total hires: +34% YoY </span> with over 32% IC3 level or above, including a new CRO. Successfully built the Denver GTM office from scratch and integrated global remote sales roles.</p>
             </li>
             <li className="flex gap-4">
               <span className="text-blue-500 font-bold">02</span>
-              <p className="text-zinc-300">Improved overall Offer Acceptance Rate to<span className="text-white font-bold">91.5%: +13.5pp vs 2024</span>outperforming the SaaS market median of 82%. Referral engine grew from<span className="text-white font-bold">6% of our hires in 2024 to 23.3% 2025</span>with 53.3% for engineering and 100% of all Senior IC3+ Engineering hires.</p>
+              <p className="text-zinc-300">Improved Offer Acceptance Rate to <span className="text-white font-bold"> 91.5%: +13.5pp vs 2024 </span> outperforming the SaaS market median of 82%. Referral engine grew from <span className="text-white font-bold"> 6% of our hires in 2024 to 23.3% in 2025 </span> including 100% of all Senior IC3+ Engineering hires and 53.3% below IC3.</p>
             </li>
             <li className="flex gap-4">
               <span className="text-blue-500 font-bold">03</span>
-              <p className="text-zinc-300">Achieved a<span className="text-white font-bold">31-day Time-to-Hire for non-engineering roles,</span>significantly beating the industry benchmark of 40 days and our internal 40-day target. Despite high selectivity and market friction, we successfully landed<span className="text-white font-bold"> 7 out of 10 Hard-to-Fill</span>roles in H2 2025.</p>
+              <p className="text-zinc-300">Achieved a <span className="text-white font-bold"> 31-day Time-to-Hire for non-engineering roles, </span> beating the industry benchmark and our target of 40 days. Despite high selectivity and market friction, we successfully landed <span className="text-white font-bold"> 7 out of 10 Hard-to-Fill </span> roles in H2 2025.</p>
             </li>
           </ul>
         </div>
