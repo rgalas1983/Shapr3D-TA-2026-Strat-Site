@@ -12,7 +12,7 @@ const ExecSummaryPage: React.FC = () => {
           <ul className="space-y-4">
             <li className="flex gap-4">
               <span className="text-blue-500 font-bold">01</span>
-              <p className="text-zinc-300">Successfully onboarded <span className="text-white font-bold"> 43 total hires: +34% YoY </span> with over 32% IC3 level or above, including a new CRO. Successfully built the Denver GTM office from scratch and integrated global remote sales roles.</p>
+              <p className="text-zinc-300">Successfully onboarded <span className="text-white font-bold"> 43 total hires: +34% YoY </span> with over 32% IC3 level or above, including a new CRO. Built the Denver GTM office from scratch and integrated global remote sales roles.</p>
             </li>
             <li className="flex gap-4">
               <span className="text-blue-500 font-bold">02</span>
