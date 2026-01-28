@@ -12,15 +12,15 @@ const ExecSummaryPage: React.FC = () => {
           <ul className="space-y-4">
             <li className="flex gap-4">
               <span className="text-blue-500 font-bold">01</span>
-              <p className="text-zinc-300">Increased hiring volume by <span className="text-white font-bold">+34%</span> compared to 2024. Building multiple founding teams globally and strengthening Product and Engineering core in BP</p>
+              <p className="text-zinc-300">Successfully onboarded <span className="text-white font-bold"> 43 total hires: +34% YoY </span> with over 32% IC3 level or above, including a new CRO. We successfully built the Denver GTM office from scratch and integrated global remote sales roles.</p>
             </li>
             <li className="flex gap-4">
               <span className="text-blue-500 font-bold">02</span>
-              <p className="text-zinc-300">Materially improved offer acceptance across all roles, with Engineering seeing the biggest improvement.</p>
+              <p className="text-zinc-300">Improved overall Offer Acceptance Rate to <span className="text-white font-bold"> 91.5%: +13.5pp vs 2024 </span> outperforming the SaaS market median of 82%. Referral engine grew from <span className="text-white font-bold"> 6% of our hires in 2024 to 23.3% 2025 </span> with 53.3% for engineering and 100% of all Senior IC3+ Engineering hires.</p>
             </li>
             <li className="flex gap-4">
               <span className="text-blue-500 font-bold">03</span>
-              <p className="text-zinc-300">Maintained competitive speed vs Global SaaS benchmarks despite friction points.</p>
+              <p className="text-zinc-300">Achieved a <span className="text-white font-bold"> 31-day Time-to-Hire for non-engineering roles, </span> significantly beating the industry benchmark of 40 days and our internal <40-day target. Despite high selectivity and market friction, we successfully landed <span className="text-white font-bold"> 7 out of 10 Hard-to-Fill </span> roles in H2 2025.</p>
             </li>
           </ul>
         </div>
@@ -31,7 +31,7 @@ const ExecSummaryPage: React.FC = () => {
           <div className="grid grid-cols-2 gap-4">
             <div className="p-4 bg-black/40 rounded-xl border border-zinc-800/50">
               <p className="text-[10px] text-zinc-500 uppercase font-bold mb-1">Engineering IC3+</p>
-              <p className="text-white font-medium">Market constraints</p>
+              <p className="text-white font-medium">Local market constraints</p>
             </div>
             <div className="p-4 bg-black/40 rounded-xl border border-zinc-800/50">
               <p className="text-[10px] text-zinc-500 uppercase font-bold mb-1">GTM roles</p>
@@ -45,9 +45,9 @@ const ExecSummaryPage: React.FC = () => {
         <h3 className="text-2xl font-bold text-white">2026 Focus Areas</h3>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
           {[
-            { title: "Speed where supply exists", desc: "Leveraging automation and clear role personas to move fast in fluid markets.", icon: "⚡" },
-            { title: "Scalable by design", desc: "Repeatable processes and sustainable systems to grow with us and guard against fragility.", icon: "🛡️" },
-            { title: "Performance Bar Raising", desc: "Quantifying hire quality via NIPS to maximise talnet density.", icon: "📈" }
+            { title: "Speed where supply exists", desc: "Beat 2025 avg. TTH for non-eng roles (<31 days) and reduce Senior Eng TTH to under 44 days. Focus on delivering 4 specialized hard-to-fill roles (EM, Snr Prod Ops, Snr Prod Des, HoF) while minimizing admin friction via Ashby automation.", icon: "⚡" },
+            { title: "Scalable by design", desc: "Repeatable processes and sustainable systems to grow with us and maintain our strong conversion at all stages", icon: "🛡️" },
+            { title: "Performance Bar Raising", desc: "Quantifying hire quality via NIPS to maximize talent density while institutionalizing evidence-led channel prioritization. Maintain stakeholder alignment above 85% for both Hiring Manager satisfaction (2025: 87%) and Candidate NPS (2025: 89.1%).", icon: "📈" }
           ].map((item, i) => (
             <div key={i} className="p-6 bg-zinc-900/40 rounded-2xl border border-zinc-800 hover:border-blue-500/50 transition-colors group">
               <span className="text-3xl mb-4 block">{item.icon}</span>
