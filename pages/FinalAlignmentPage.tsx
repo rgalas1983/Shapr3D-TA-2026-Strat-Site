@@ -9,10 +9,10 @@ const FinalAlignmentPage: React.FC = () => {
       icon: "⚡",
       color: "blue",
       items: [
-        "Beat 2025 Avg Time to Hire for Non Eng roles of 31 days ",
-        "Reduce Avg Time to Hire for senior Eng roles to under 44 days",
-        "Fill 4 Hard to Fill roles: EM/Snr Prod Ops/ Snr Prod Des/HoF",
-        "Minimise admin friction via Ashby automation"
+        "Maintain 2025 Avg Time to Hire for Non Eng roles of under 35 days ",
+        "Reduce Avg Time to Hire for senior Eng roles to under 45 days",
+        "Deliver business critical roles with Exec search execution",
+        "Minimise admin friction via Ashby automation and in-house AI tooling"
       ]
     },
     {
@@ -21,10 +21,10 @@ const FinalAlignmentPage: React.FC = () => {
       icon: "🎯",
       color: "green",
       items: [
-        "Above 90% offer acceptance rate preserved",
-        "Boost Eng referrals from 53-60% vs industry average of 16-28%",
-        "Build a 'warm' Bench of Top AE candidates",
-        "Less drag and more focused sourcing through role blueprints"
+        "Above 85% offer acceptance rate preserved",
+        "Build 'warm' pipelines for core roles, ready to activate in line with company growth signals",
+        "Evidence-led channel and source prioritization through Ashby and NIPS data",
+        "Less drag and more focused sourcing and interviewing through role blueprints and HM training"
       ]
     },
     {
@@ -33,10 +33,9 @@ const FinalAlignmentPage: React.FC = () => {
       icon: "💎",
       color: "zinc",
       items: [
-        "Build NIPS system and establish baseline",
-        "Hiring Manager feedback score of 85%+ to keep in line with 2025 score of 87%",
-        "Do not let our Candidate positive NPS rating in 2025 of 89.1% drop below 85%",
-        "Evidence-led channel and source prioritization"
+        "Build NIPS system. Establish a robust and scalable engine that can produce talent insights that will direct our hiring and development strategies",
+        "Hiring Manager feedback score of 80%+",
+        "Candidate positive NPS rating of 80%+"
       ]
     }
   ];
